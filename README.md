@@ -231,7 +231,7 @@ NextJS • React • Tailwind CSS • TypeScript • FastAPI • Python
 # 💎 Diamond Price Prediction & Quality Analysis
 
 ### Project Overview
-Developed a Machine Learning model to predict diamond prices and analyze diamond quality using data-driven techniques.
+Developed a Machine Learning model to predict diamond prices and analyze diamond quality using ML models .
 
 ### Features
 - Price prediction
@@ -242,7 +242,26 @@ Developed a Machine Learning model to predict diamond prices and analyze diamond
 ### Technologies Used
 
 ```txt
-Python • CART Algorithm • Machine Learning Libraries
+Python Libraries • CART Algorithm • Machine Learning Models
+
+```
+
+# 🏠 Smart House Price Prediction System
+
+### Project Overview
+  Built an AI-powered real estate intelligence system that goes beyond price estimation by comparing multiple machine learning models and uncovering the key factors that drive property values. The platform transforms raw housing data into actionable insights for buyers, sellers, and investors.
+
+### Features
+- Instant house price estimation
+- Comparative analysis of prediction models
+- Identification of high-impact pricing factors
+- Automated data preprocessing and feature engineering
+- Performance benchmarking and visualization
+
+### Technologies Used
+
+```txt
+Python • Pandas • NumPy • Scikit-learn • Linear Regression • Ridge Regression • Random Forest Regression • Matplotlib • Seaborn
 ```
 
 ### Skills Applied

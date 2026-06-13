@@ -4,10 +4,10 @@
 
 # Hi 👋, I'm Tipparam Bindusri
 
-### Computer Science Engineering Student | AI & Software Engineering Enthusiast | Full Stack Learner
+### Computer Science Engineering(Data Science) Student | AI  Engineering  | Full Stack Learner
 
 <p align="center">
-Passionate about building intelligent solutions through Artificial Intelligence, Machine Learning, and Software Development while continuously exploring emerging technologies and research-driven innovations.
+Passionate about building intelligent solutions through Artificial Intelligence, Machine Learning, and Software Engineer while continuously exploring emerging technologies and Problem solving.
 </p>
 
 <p align="center">
